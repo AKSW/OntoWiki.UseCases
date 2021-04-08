@@ -1,5 +1,5 @@
 # OntoWiki.UseCases
-Collection of Use Cases, User Storeis and Requirements for OntoWiki
+Collection of Use Cases, User Stories and Requirements for OntoWiki
 
 [OntoWiki](https://ontowiki.net/) is a great tool, however we were not able to move on to PHP7 with it ([OntoWiki/#440](https://github.com/AKSW/OntoWiki/issues/440), [OntoWiki/#441](https://github.com/AKSW/OntoWiki/issues/441)).
 There are many people who use OntoWiki and are very happy with it.
