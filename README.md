@@ -15,3 +15,7 @@ In our endeavor to move on to a more flexible architecture we have developed sev
 - [QuitStore](https://github.com/AKSW/QuitStore)
 - [Jekyll RDF](https://github.com/AKSW/jekyll-rdf)
 - … [many more](https://github.com/AKSW)
+- [eccenca Corporate Memory](https://documentation.eccenca.com)
+  - Try our free Community Edition Sandbox: https://eccenca.my
+  - Interested in our academic program: contact [@seebi](https://github.com/seebi)
+  
